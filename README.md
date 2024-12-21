@@ -1,1 +1,1 @@
-# CV-Self-Supervised_Learning-for-Medical-Image-Representation-using-Momentum-Contrast
+# CV-Self Supervised Learning for Medical Image Representation using Momentum Contrast
